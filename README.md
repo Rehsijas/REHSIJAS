@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Jasmeet 👋
 
-<!--
-**Rehsijas/REHSIJAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computing Student @ Arden University  
+📍 Hamburg → Berlin, Germany  
+🔐 Aspiring Cybersecurity Professional | Purple Team Learner  
+🛠️ Building Algorithmica — a gamified self-learning platform for hackers  
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
+- Linux & CLI tools
+- Nmap, Kali Linux & offensive security fundamentals
+- Python scripting
+- AI & Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+`Linux` `Python` `HTML` `CSS` `Nmap` `Hardware Repair` `OS Troubleshooting` `Prompt Engineering`
+
+## 📫 Reach me
+rehsijasmeet1711@gmail.com
